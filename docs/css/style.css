@@ -116,6 +116,37 @@ section h2 span {
 	padding-bottom: 80px;
 }
 
+h3 {
+  position: relative;
+  line-height: 1.4;
+  padding:0.25em 1em;
+  display: inline-block;
+  top:0;
+}
+
+h3:before, h3:after { 
+  position: absolute;
+  top: 0;
+  content:'';
+  width: 8px;
+  height: 100%;
+  display: inline-block;
+}
+
+h3:before {
+  border-top: dotted 1px #535aaa;
+  border-left: dotted 1px #535aaa;
+  border-bottom: dotted 1px #535aaa;
+  left: 0;
+}
+
+h3:after {
+  content: '';
+  border-top: dotted 1px #535aaa;
+  border-right: dotted 1px #535aaa;
+  border-bottom: dotted 1px #535aaa;
+  right: 0;
+}
 
 /* SEC02 Gallery
 ------------------------------------------------------------*/
