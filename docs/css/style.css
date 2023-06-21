@@ -205,6 +205,11 @@ h3:after {
 	text-align: center;
 	padding: 220px 20px;
 }
+.col6 li{
+	display: inline-block;
+	width: 100%;
+	list-style-type: square;
+}
 
 #sec04_02 img{
 	width: auto;
