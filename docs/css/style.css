@@ -211,9 +211,16 @@ h3:after {
 	list-style-type: square;
 }
 .col7 li{
-	display: inline-block;
+	/*display: inline-block;
 	width: 100%;
-	margin: 10px auto 10px auto;
+	margin: 10px auto 10px auto;*/
+	margin: 50px auto 0 auto;
+	display: block;
+	line-height: 1.7;
+	width: 28%;
+	padding: 0 2.5% 50px;
+	vertical-align: top;
+	text-align: left;
 }
 #sec04_02 img{
 	width: auto;
