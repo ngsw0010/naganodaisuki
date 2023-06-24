@@ -149,36 +149,12 @@ h3:after {
   border-bottom: dotted 1px #535aaa;
   right: 0;
 }
-
-/* SEC02 Gallery
-------------------------------------------------------------
-#sec02{
-	padding: 0 !important;
-}
-
-#sec02 header{
-	display: none;
-}
-
-#gallery li{
-	float: left;
-	width: calc(100%/3);
-	line-height: 0;
-}
-
-#gallery img{
-	width: 100%;
-	height: auto;
-}
-
-*/
 /* SEC03 PROJECT
 ------------------------------------------------------------*/
 #sec03 img{
 	width: 100%;
 	margin-bottom: 30px;
 }
-
 
 /* SEC04 BRAND
 ------------------------------------------------------------*/
@@ -213,16 +189,7 @@ h3:after {
 .col7 li{
 	display: inline-block;
 	width: 100%;
-	margin: 20px auto auto 20px;
-	/*
-	width: 100%;
-	margin: 10px auto 10px auto;
-	margin: 50px auto 0 auto;
-	line-height: 1.7;
-	width: 28%;
-	padding: 0 2.5% 50px;
-	vertical-align: top;
-	text-align: center;*/
+	margin: 20px auto auto 30px;
 }
 .col7 .img{
 	display: inline-block;
