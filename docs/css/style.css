@@ -210,7 +210,11 @@ h3:after {
 	width: 100%;
 	list-style-type: square;
 }
-
+.col7 li{
+	display: inline-block;
+	width: 100%;
+	margin: 20px 0;
+}
 #sec04_02 img{
 	width: auto;
 }
