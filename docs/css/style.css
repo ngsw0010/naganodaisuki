@@ -112,7 +112,7 @@ section h2 span {
 
 .innerS{
 	width: 60%;
-	margin: 0 27%;
+	margin: 0 30%;
 	padding-bottom: 60px;
 }
 
@@ -202,6 +202,12 @@ h3:after {
 	width: 100%;
 	margin: 0 50px;
 	/*text-align: center;*/
+}
+.pc{
+  display: block;
+}
+.sp{
+  display: none;
 }
 #sec04_02 img{
 	width: auto;
@@ -360,7 +366,7 @@ h3:after {
 		width: auto !important;
 	}
 
-  a#menu{
+  	a#menu{
   	display: inline-block;
   	position: relative;
   	width: 40px;
@@ -482,4 +488,10 @@ h3:after {
 	section h2 span {
 		padding: 0 30px;
 	}
+	.pc{
+    	display: none;
+  	}
+  	.sp{
+    	display: block;
+  	}
 }
