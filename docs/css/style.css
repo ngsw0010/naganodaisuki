@@ -119,7 +119,6 @@ section h2 span {
 .innerM{
 	width: 60%;
 	margin: 0 27%;
-	/*padding-right: 50px;*/
 	padding-bottom: 60px;
 }
 
@@ -201,9 +200,8 @@ h3:after {
 .col7 .img{
 	display: inline-block;
 	width: 100%;
-	margin:0 auto;
-	/*margin: 0 45px;
-	text-align: center;*/
+	margin: 0 50px;
+	/*text-align: center;*/
 }
 #sec04_02 img{
 	width: auto;
