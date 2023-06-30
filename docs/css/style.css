@@ -211,6 +211,7 @@ h3:after {
 .col2 li{
 	display: inline-block;
 	width: 100%;
+	margin: 20px 10px 5px 30px;
 }
 
 #sns img{
