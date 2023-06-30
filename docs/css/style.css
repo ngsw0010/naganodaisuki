@@ -201,8 +201,8 @@ h3:after {
 .col7 .img{
 	display: inline-block;
 	width: 100%;
-	/*margin: 20px 0;*/
-	text-align: center;
+	margin: 0 30px;
+	/*text-align: center;*/
 }
 #sec04_02 img{
 	width: auto;
