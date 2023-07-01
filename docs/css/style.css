@@ -312,12 +312,20 @@ h3:after {
 		/*width: 35%;*/
 		padding-right: 4%;
 	}
+	#mainImg{
+	　　　　　margin: auto;
+		width: 100%;
+	}
 }
 
 @media only screen and (max-width: 640px){
 	.innerS{
 		width: 94%;
 		padding-bottom: 70px;
+	}
+	#mainImg{
+	　　　　　margin: auto;
+		width: 100%;
 	}
 	.col3 li{
 		line-height: 1.7;
@@ -475,9 +483,6 @@ h3:after {
 	#mainImg{
 	　　　　　margin: auto;
 		width: 100%;
-		/*padding-top: 60px;
-		width: 100%;
-		z-index: -100;*/
 	}
 	.col3 li{
 		margin: 50px auto 0 auto;
@@ -498,11 +503,4 @@ h3:after {
 	        margin: 0 35%;
 	        padding-bottom: 60px;
         }
-	/*
-	.pc{
-    	display: none;
-  	}
-  	.sp{
-    	display: block;
-  	}*/
 }
