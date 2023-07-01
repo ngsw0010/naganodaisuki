@@ -311,6 +311,7 @@ h3:after {
 	#mainImg{
 	　　　　　margin: auto;
 		width: 100%;
+		height: 528px;
 	}
 }
 
@@ -322,6 +323,7 @@ h3:after {
 	#mainImg{
 	　　　　　margin: auto;
 		width: 100%;
+		height: 528px;
 	}
 	.col3 li{
 		line-height: 1.7;
