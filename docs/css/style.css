@@ -204,12 +204,6 @@ h3:after {
 	margin: 0 20%;
 	/*text-align: center;*/
 }
-.pc{
-  display: block;
-}
-.sp{
-  display: none;
-}
 #sec04_02 img{
 	width: auto;
 }
