@@ -492,7 +492,13 @@ h3:after {
 	}
 	section h2 span {
 		padding: 0 30px;
-	}/*
+	}
+	.innerM{
+	        width: 60%;
+	        margin: 0 35%;
+	        padding-bottom: 60px;
+        }
+	/*
 	.pc{
     	display: none;
   	}
