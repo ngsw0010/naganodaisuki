@@ -57,11 +57,12 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 #mainImg img{
   position: absolute;
-  /*left: 50%;*/
+  width: 100%;
+  /*left: 50%;
   max-width: 1280px;
   width: 1280px;
   height: 528px;
-  /*margin-left: -640px;*/
+  margin-left: -640px;*/
 }
 
 
