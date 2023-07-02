@@ -396,20 +396,13 @@ h3:after {
 		-webkit-transform: rotate(45deg);
 		transform: rotate(45deg);
 	}
-/*	
-	#wrap{
-	  width:700px;
-	  margin-right:auto;
-	  margin-left:auto;
-	}
-*/
+
 	#mainImg{
 	  position: relative;
 	  overflow: hidden;
-	  margin-top: 50px;
 	  width: 100%;
 	  height: 200px;
-	  margin: 20px 40px;
+	  margin: 50px 40px 0 40px;
 	}
 	.innerM{
 	        width: 60%;
