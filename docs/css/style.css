@@ -53,8 +53,6 @@ a:active, a:focus,input:active, input:focus{outline:0;}
   overflow: hidden;
   width: 100%;
   height: 528px;
-　　　　max-width: 1280px;
-  margin: 10 auto;
 }
 
 #mainImg img{
@@ -272,6 +270,7 @@ h3:after {
 		position: fixed;
 		width: 100%;
 		z-index: 500;
+		height: 50px;
 	}
 	
 	#headerWrap{
@@ -397,13 +396,21 @@ h3:after {
 		-webkit-transform: rotate(45deg);
 		transform: rotate(45deg);
 	}
-	
+/*	
 	#wrap{
 	  width:700px;
 	  margin-right:auto;
 	  margin-left:auto;
 	}
-
+*/
+	#mainImg{
+	  position: relative;
+	  overflow: hidden;
+	  margin-top: 50px;
+	  width: 100%;
+	  height: 200px;
+	  margin: 20px 40px;
+	}
 	.innerM{
 	        width: 60%;
 	        margin: 0 35%;
