@@ -213,14 +213,14 @@ h3:after {
 @media only screen and (min-width: 800px) and (max-width: 850px){
 	.panel ul{
 		width: 100%;
-		margin: 0 20%;
+		margin: 20px 20% 0 20%;
 	}
 	#mainImg{
 		  position: relative;
 		  overflow: hidden;
 		  width: 100%;
 		  height: 300px;
-		  margin: 50px 20%;
+		  margin: 30px 20% 50px 20%;
 	}
 	section h2{
 		font-family: 'Pacifico', cursive;
