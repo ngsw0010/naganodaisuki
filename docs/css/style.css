@@ -211,6 +211,10 @@ h3:after {
 }
 
 @media only screen and (min-width: 800px) and (max-width: 850px){
+	#header {
+		text-align: center;
+		margin-left: 200px;
+	}
 	.panel ul{
 		width: 100%;
 		margin: 20px 10% 0 30px;
@@ -220,7 +224,7 @@ h3:after {
 		overflow: hidden;
 		width: 100%;
 		height: 400px;
-		margin-left: 80px
+		margin-left: 150px
 	}
 	#mainImg img{
 	  	position: absolute;
@@ -230,7 +234,7 @@ h3:after {
 	section h2{
 		font-family: 'Pacifico', cursive;
 		width: 100%;
-		margin: 0 80px 20px;
+		margin: 0 150px 20px;
 		font-size: 22px;
 		font-weight:normal;
 		text-align: center;
@@ -244,18 +248,18 @@ h3:after {
 	}
 	.innerS{
 		width: 70%;
-		margin: 0 17%;
-		padding-bottom: 40px;
+		margin-left: 150px;
+		/*padding-bottom: 40px;*/
 	}
 	.innerM{
 	        width: 70%;
-	        margin-left: 25%;
-	        padding-bottom: 40px;
+	        margin-left: 35%;
+	        /*padding-bottom: 40px;*/
         }
 	.col7 .img{
 		display: inline-block;
 		width: 100%;
-		margin: 0 25%;
+		margin-left: 200px
 	}
 }
 @media only screen and (min-width: 800px){
