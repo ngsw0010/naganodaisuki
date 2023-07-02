@@ -287,7 +287,7 @@ h3:after {
 }
 
 
-@media only screen and (min-width: 641px){
+@media only screen and (min-width: 641px)and (max-width: 800px){
 	.col2 li{
 		/*width: 60%;*/
 		vertical-align: top;
