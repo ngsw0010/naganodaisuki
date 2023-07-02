@@ -247,11 +247,6 @@ h3:after {
 	.inner{
 		width: 1024px;
 	}
-	#wrap{
-	  width:100%;
-	  margin-right:auto;
-	  margin-left:auto;
-	}
 }
 
 @media only screen and (min-width: 800px){
@@ -272,6 +267,12 @@ h3:after {
 		padding: 50px 25px;
 		font-size: 15px;
 	}
+
+	#wrap{
+	  width:600px;
+	  margin-right:auto;
+	  margin-left:auto;
+	}
 	
 	#footer{
 		padding: 30px 10px 70px 0;
@@ -288,12 +289,17 @@ h3:after {
 		/*width: 35%;*/
 		padding-right: 4%;
 	}
-}
+/*}
 
-@media only screen and (max-width: 640px){
+@media only screen and (max-width: 640px){*/
 	.innerS{
 		width: 94%;
 		padding-bottom: 70px;
+	}
+	#wrap{
+	  width:500px;
+	  margin-right:auto;
+	  margin-left:auto;
 	}
 }
 
@@ -426,6 +432,12 @@ h3:after {
 		border-right: solid 2px #000;
 		-webkit-transform: rotate(45deg);
 		transform: rotate(45deg);
+	}
+	
+	#wrap{
+	  width:700px;
+	  margin-right:auto;
+	  margin-left:auto;
 	}
 
 	.innerM{
