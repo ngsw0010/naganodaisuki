@@ -115,7 +115,7 @@ section h2 span {
 	margin: 0 27%;
 	padding-bottom: 60px;
 }
-
+/*
 h3 {
 	position: relative;
 	line-height: 1.4;
@@ -147,36 +147,6 @@ h3:after {
 	border-bottom: dotted 1px #535aaa;
 	right: 0;
 }
-/* SEC03 PROJECT
-------------------------------------------------------------
-#sec03 img{
-	width: 100%;
-	margin-bottom: 30px;
-}
-*/
-/* SEC04 BRAND
-------------------------------------------------------------
-.col3 img{
-	display: block;
-	margin: 0 auto 5px;
-}
-
-.col3 li{
-	line-height: 2.0;
-}
-
-.col3 .img{
-	padding: 80px 50px;
-	margin-bottom: 40px;
-	line-height: 0 !important;
-	background: #f6f6f6;
-}
-
-.col6 li{
-	display: inline-block;
-	width: 100%;
-	list-style-type: square;
-}
 */
 .col7 li{
 	display: inline-block;
@@ -188,12 +158,6 @@ h3:after {
 	width: 100%;
 	margin: 0 14%;
 }
-
-/* SEC05 COMPANY
-------------------------------------------------------------
-#sec05 p{
-	margin-bottom: 5px;
-}*/
 
 .col2 li{
 	display: inline-block;
