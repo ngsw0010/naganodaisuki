@@ -213,7 +213,7 @@ h3:after {
 @media only screen and (min-width: 800px) and (max-width: 850px){
 	.panel ul{
 		width: 100%;
-		margin: 20px 10% 0 10%;
+		margin: 20px 10% 0 30px;
 	}
 	#mainImg{
 		  position: relative;
@@ -227,7 +227,7 @@ h3:after {
 	}
 	section h2{
 		font-family: 'Pacifico', cursive;
-		width: 90%;
+		width: 100%;
 		margin: 0 40px 20px;
 		font-size: 22px;
 		font-weight:normal;
@@ -237,7 +237,7 @@ h3:after {
 	}
 	section{
 		clear:both;
-		margin: auto 20%;
+		margin: auto 10%;
 		padding-top: 10px;
 	}
 	.innerS{
