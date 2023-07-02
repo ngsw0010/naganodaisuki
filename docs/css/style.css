@@ -176,13 +176,6 @@ h3:after {
 	background: #f6f6f6;
 }
 
-#sec04_02{
-	background: url(../images/bgSec04.jpg) no-repeat 100% 100% fixed;
-	background-size: cover;
-	-webkit-background-size: cover;
-	text-align: center;
-	padding: 220px 20px;
-}
 .col6 li{
 	display: inline-block;
 	width: 100%;
@@ -199,10 +192,6 @@ h3:after {
 	margin: 0 20%;
 	/*text-align: center;*/
 }
-#sec04_02 img{
-	width: auto;
-}
-
 
 /* SEC05 COMPANY
 ------------------------------------------------------------*/
@@ -214,33 +203,6 @@ h3:after {
 	display: inline-block;
 	width: 100%;
 }
-
-#sns img{
-	padding: 35px 10px 5px 0;
-}
-
-#sns a:hover img{
-	opacity: .8;
-}
-
-#map{
-	position: relative;
-	padding-bottom: 75%;
-	height: 0;
-	overflow: hidden;
-	z-index: 0;
-}
-
-#map iframe{
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100% !important;
-	height: 100% !important;
-	border: 0;
-}
-
-
 
 /* RESPONSIVE 設定
 ------------------------------------------------------------*/
