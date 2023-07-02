@@ -225,12 +225,12 @@ h3:after {
 	#mainImg img{
 	  	position: absolute;
 	  	width: 100%;
-		margin: 30px 10% 50px 10%;
+		margin: 30px 0 50px;
 	}
 	section h2{
 		font-family: 'Pacifico', cursive;
 		width: 100%;
-		margin: 0 40px 20px;
+		margin: 0 80px 20px;
 		font-size: 22px;
 		font-weight:normal;
 		text-align: center;
@@ -249,13 +249,13 @@ h3:after {
 	}
 	.innerM{
 	        width: 70%;
-	        margin: 0 5% 0 20%;
+	        margin-left: 25%;
 	        padding-bottom: 40px;
         }
 	.col7 .img{
 		display: inline-block;
 		width: 100%;
-		margin: 0 14%;
+		margin: 0 25%;
 	}
 }
 @media only screen and (min-width: 800px){
