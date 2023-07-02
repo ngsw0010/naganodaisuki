@@ -234,7 +234,7 @@ h3:after {
 	}
 }
 
-
+/*
 @media only screen and (min-width: 641px){
 	.col2 li{
 		/*width: 60%;*/
@@ -249,7 +249,7 @@ h3:after {
 		padding-bottom: 70px;
 	}
 }
-
+*/
 @media only screen and (max-width: 799px){
 	#header{
 		position: fixed;
