@@ -20,6 +20,9 @@ body{
 	overflow-x: hidden;
 	color: #000;
 	background: #fff;
+	width: 100%;
+	max-width: 1280px;
+	margin: auto;
 }
 
 a{
